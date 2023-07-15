@@ -32,5 +32,7 @@ Contributions to this project are welcome! If you have any ideas, suggestions, o
 
 Refrences:
 https://sirius.cs.put.poznan.pl/~inf89721/Seminarium/Web_Data_Mining__2nd_Edition__Exploring_Hyperlinks__Contents__and_Usage_Data.pdf
+
 https://aircconline.com/avc/V3N3/3316avc01.pdf
+
 https://www.geeksforgeeks.org/sentiment-detector-gui-using-tkinter-python/
