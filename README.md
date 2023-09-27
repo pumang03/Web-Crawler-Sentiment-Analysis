@@ -1,6 +1,6 @@
 # Web-Crawler-Sentiment-Analysis
 The main goal of the project was to create a specialized web crawler capable of efficiently collecting URLs from diverse online sources. Additionally, the project focused on developing a user-friendly interface that would allow users to engage with the sentiment analysis outcomes. Users were provided with the ability to upload CSV or XLSX files containing text data, and then obtain sentiment scores and predicted results for each text entry. Finally, users were able to conveniently
-Umang Pathak 6 download the processed data along with the corresponding sentiment scores and predictions.
+download the processed data along with the corresponding sentiment scores and predictions.
 
 The project utilizes web crawling, sentiment analysis, and a user-friendly interface to achieve this objective.
 
